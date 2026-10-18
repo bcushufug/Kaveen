@@ -1,0 +1,6 @@
+{
+  "name": "Infinix TV",
+  "description": "Infinix TV - Live TV streaming application for news, sports, movies, music, and entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

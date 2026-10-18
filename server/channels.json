@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "1",
+    "num": 1,
+    "name": "Channel One",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22849?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch001.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=1&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "2",
+    "num": 2,
+    "name": "Rupavahini",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22813?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch002.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=2&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "3",
+    "num": 3,
+    "name": "Nethra TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/31371?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch003.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=3&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "4",
+    "num": 4,
+    "name": "ITN",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22850?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch004.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=4&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "5",
+    "num": 5,
+    "name": "Vasantham TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/14298?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch005.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=5&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "6",
+    "num": 6,
+    "name": "TV Derana",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22839?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch006.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=6&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "7",
+    "num": 7,
+    "name": "Swarnawahini",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22848?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch007.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=7&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "8",
+    "num": 8,
+    "name": "Sirasa TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/11105?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch008.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=8&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "9",
+    "num": 9,
+    "name": "Shakthi TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22847?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch009.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=9&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "10",
+    "num": 10,
+    "name": "TV1 Sri Lanka",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/11103?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch010.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=10&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "11",
+    "num": 11,
+    "name": "Hiru TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22838?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch011.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=11&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "12",
+    "num": 12,
+    "name": "TV Supreme",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/174525?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch012.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=12&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "13",
+    "num": 13,
+    "name": "ART Television",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23064?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch013.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=13&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "14",
+    "num": 14,
+    "name": "ADA DERANA 24",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23063?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch014.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=14&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "15",
+    "num": 15,
+    "name": "Siyatha TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22837?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch015.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=15&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "16",
+    "num": 16,
+    "name": "Haritha TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22842?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch016.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=16&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "17",
+    "num": 17,
+    "name": "TV Didula",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22840?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch017.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=17&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "18",
+    "num": 18,
+    "name": "Ridee TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/9590?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch018.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=18&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "19",
+    "num": 19,
+    "name": "Citi Hitz",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22841?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch019.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=19&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "20",
+    "num": 20,
+    "name": "ThePapare 3",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/816294?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch020.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=20&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "21",
+    "num": 21,
+    "name": "Rangiri Sri Lanka",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22844?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch021.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=21&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "22",
+    "num": 22,
+    "name": "Hi TV",
+    "category": "Local",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22845?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch022.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=22&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "23",
+    "num": 23,
+    "name": "Pragna TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22846?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch023.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=23&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "24",
+    "num": 24,
+    "name": "Damsathara TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23062?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch024.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=24&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "25",
+    "num": 25,
+    "name": "Jaya TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20252?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch025.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=25&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "26",
+    "num": 26,
+    "name": "Buddhist TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23082?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch026.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=26&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "27",
+    "num": 27,
+    "name": "Shraddha TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20253?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch027.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=27&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "28",
+    "num": 28,
+    "name": "God TV/Swarga TV",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23074?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch028.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=28&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "29",
+    "num": 29,
+    "name": "EWTN / Verbum",
+    "category": "Religious",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23073?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch029.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=29&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "30",
+    "num": 30,
+    "name": "Al Jazeera",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13846?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch030.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=30&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "31",
+    "num": 31,
+    "name": "ABC Australia",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23061?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch031.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=31&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "32",
+    "num": 32,
+    "name": "BBC World",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23060?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch032.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=32&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "33",
+    "num": 33,
+    "name": "CGTN",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23059?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch033.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=33&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "34",
+    "num": 34,
+    "name": "CNN",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23069?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch034.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=34&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "35",
+    "num": 35,
+    "name": "NDTV",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23067?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch035.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=35&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "36",
+    "num": 36,
+    "name": "France 24x7",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20263?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch036.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=36&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "37",
+    "num": 37,
+    "name": "Euro News",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23057?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch037.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=37&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "38",
+    "num": 38,
+    "name": "Bloomberg",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23056?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch038.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=38&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "39",
+    "num": 39,
+    "name": "CNBC",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22803?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch039.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=39&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "40",
+    "num": 40,
+    "name": "B4U Music",
+    "category": "Music",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22790?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch040.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=40&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "41",
+    "num": 41,
+    "name": "Romantico",
+    "category": "Music",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/708479?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch041.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=41&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "42",
+    "num": 42,
+    "name": "Channel C",
+    "category": "Music",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20268?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch042.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=42&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "43",
+    "num": 43,
+    "name": "Jaya Max",
+    "category": "Music",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/185456?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch043.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=43&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "44",
+    "num": 44,
+    "name": "Zing TV",
+    "category": "Music",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/175281?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch044.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=44&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "45",
+    "num": 45,
+    "name": "Da Vinci",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22800?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch045.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=45&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "46",
+    "num": 46,
+    "name": "CBeebies",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22795?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch046.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=46&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "47",
+    "num": 47,
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22794?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch047.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=47&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "48",
+    "num": 48,
+    "name": "A Plus Kids TV",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23054?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch048.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=48&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "49",
+    "num": 49,
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13844?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch049.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=49&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "50",
+    "num": 50,
+    "name": "Baby TV",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22796?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch050.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=50&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "51",
+    "num": 51,
+    "name": "Disney Jr",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23053?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch051.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=51&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "52",
+    "num": 52,
+    "name": "Nick JR",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13854?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch052.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=52&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "53",
+    "num": 53,
+    "name": "Moonbug",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/102016?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch053.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=53&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "54",
+    "num": 54,
+    "name": "Pogo",
+    "category": "Kids",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47359?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch054.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=54&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "55",
+    "num": 55,
+    "name": "Animal Planet",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/14185?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch055.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=55&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "56",
+    "num": 56,
+    "name": "Discovery",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23044?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch056.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=56&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "57",
+    "num": 57,
+    "name": "Discovery Science",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23072?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch057.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=57&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "58",
+    "num": 58,
+    "name": "TLC",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22784?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch058.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=58&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "59",
+    "num": 59,
+    "name": "National Geographic",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22307?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch059.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=59&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "60",
+    "num": 60,
+    "name": "NGC Wild",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22814?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch060.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=60&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "61",
+    "num": 61,
+    "name": "History TV 18",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22810?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch061.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=61&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "62",
+    "num": 62,
+    "name": "ThePapare 1",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/130716?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch062.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=62&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "63",
+    "num": 63,
+    "name": "ThePapare 2",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/130718?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch063.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=63&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "64",
+    "num": 64,
+    "name": "Sony Sports 1",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13860?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch064.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=64&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "65",
+    "num": 65,
+    "name": "Ten Cricket",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13862?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch065.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=65&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "66",
+    "num": 66,
+    "name": "Sony Sports 2",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20280?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch066.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=66&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "67",
+    "num": 67,
+    "name": "Eurosport",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/698258?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch067.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=67&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "68",
+    "num": 68,
+    "name": "Star Sports 1",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880851?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch208.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=68&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "69",
+    "num": 69,
+    "name": "Star Sports 2",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880853?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch069.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=69&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "70",
+    "num": 70,
+    "name": "Star Sports 3",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880855?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch070.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=70&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "71",
+    "num": 71,
+    "name": "HBO Family",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22807?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch071.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=71&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "72",
+    "num": 72,
+    "name": "&flix",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/175283?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch072.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=72&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "73",
+    "num": 73,
+    "name": "Hits Movies",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23049?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch073.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=73&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "74",
+    "num": 74,
+    "name": "Sony PIX",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23076?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch074.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=74&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "75",
+    "num": 75,
+    "name": "HBO Signature",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22806?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch075.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=75&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "76",
+    "num": 76,
+    "name": "Zee Café",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/175285?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch076.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=76&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "77",
+    "num": 77,
+    "name": "Warner TV",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22783?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch077.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=77&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "78",
+    "num": 78,
+    "name": "Hits",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22815?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch078.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=78&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "79",
+    "num": 79,
+    "name": "Colors Cineplex",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/71891?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch079.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=79&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "80",
+    "num": 80,
+    "name": "Fashion TV",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/13886?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch080.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=80&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "81",
+    "num": 81,
+    "name": "Disney International",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/174285?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch081.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=81&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "82",
+    "num": 82,
+    "name": "Comedy Zone",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/178287?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch082.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=82&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "83",
+    "num": 83,
+    "name": "BBC Earth",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23070?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch083.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=83&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "84",
+    "num": 84,
+    "name": "Star Bharath",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/26109?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch084.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=84&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "85",
+    "num": 85,
+    "name": "Sony Set",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23077?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch085.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=85&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "86",
+    "num": 86,
+    "name": "SET Max",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23075?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch086.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=86&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "87",
+    "num": 87,
+    "name": "Star Gold",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23046?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch087.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=87&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "88",
+    "num": 88,
+    "name": "Colors",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22802?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch088.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=88&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "89",
+    "num": 89,
+    "name": "Star Plus",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24174?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch089.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=89&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "90",
+    "num": 90,
+    "name": "B4U Movies",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22791?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch090.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=90&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "91",
+    "num": 91,
+    "name": "Star Gold Romance",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/14250?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch091.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=91&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "92",
+    "num": 92,
+    "name": "Zee Cinema",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/175287?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch092.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=92&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "93",
+    "num": 93,
+    "name": "Colors Tamil",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20291?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch093.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=93&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "94",
+    "num": 94,
+    "name": "Jaya Tv",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/185461?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch094.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=94&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "95",
+    "num": 95,
+    "name": "Jaya Movies",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/185458?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch095.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=95&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "96",
+    "num": 96,
+    "name": "Star Vijay",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/14258?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch096.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=96&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "97",
+    "num": 97,
+    "name": "Kalaignar TV",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/20292?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch097.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=97&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "98",
+    "num": 98,
+    "name": "Zee Tamil",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/175289?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch098.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=98&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "99",
+    "num": 99,
+    "name": "Sirippoli TV",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/25796?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch099.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=99&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "100",
+    "num": 100,
+    "name": "Jaya Plus",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/185451?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch100.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=100&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "101",
+    "num": 101,
+    "name": "Zee Thirai",
+    "category": "Tamil Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/188920?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch101.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=101&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "102",
+    "num": 102,
+    "name": "Nenasa Sinhala A/L",
+    "category": "Education",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47369?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch102.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=102&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "103",
+    "num": 103,
+    "name": "Nenasa Sinhala Grade 6-9",
+    "category": "Education",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47365?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch103.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=103&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "104",
+    "num": 104,
+    "name": "Nenasa Tamil A/L",
+    "category": "Education",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47370?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch104.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=104&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "105",
+    "num": 105,
+    "name": "Nenasa Sinhala O/L",
+    "category": "Education",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47367?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch105.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=105&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "106",
+    "num": 106,
+    "name": "Nenasa Tamil O/L",
+    "category": "Education",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47368?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch106.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=106&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "107",
+    "num": 107,
+    "name": "HGTV",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22805?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch107.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=107&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "108",
+    "num": 108,
+    "name": "Food Network",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22809?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch108.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=108&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "109",
+    "num": 109,
+    "name": "Discovery HD",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23065?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch109.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=109&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "110",
+    "num": 110,
+    "name": "Animal Planet HD",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/14187?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch110.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=110&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "111",
+    "num": 111,
+    "name": "AXN HD",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22772?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch111.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=111&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "112",
+    "num": 112,
+    "name": "Rock Entertainment",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22300?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch112.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=112&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "113",
+    "num": 113,
+    "name": "Hits Now",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22305?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch113.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=113&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "114",
+    "num": 114,
+    "name": "HBO",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22296?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch114.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=114&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "115",
+    "num": 115,
+    "name": "Star Movies HD",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22301?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch115.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=115&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "116",
+    "num": 116,
+    "name": "CinemaWorld",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22854?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch116.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=116&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "117",
+    "num": 117,
+    "name": "Cinemax",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22804?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch117.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=117&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "118",
+    "num": 118,
+    "name": "HBO Hits",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22808?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch118.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=118&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "119",
+    "num": 119,
+    "name": "Star Movies Select HD",
+    "category": "Movies",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/23045?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch119.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=119&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "120",
+    "num": 120,
+    "name": "Star Sports HD 1",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880857?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch120.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=120&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "121",
+    "num": 121,
+    "name": "Star Sports Select 1 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880859?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch121.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=121&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "122",
+    "num": 122,
+    "name": "Star Sports Select 2 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880861?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch122.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=122&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "123",
+    "num": 123,
+    "name": "Sony Sports 2 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22773?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch123.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=123&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "124",
+    "num": 124,
+    "name": "Sony Sports 5 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22297?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch124.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=124&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "125",
+    "num": 125,
+    "name": "Premier Sports HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/22299?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch125.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=125&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "126",
+    "num": 126,
+    "name": "ThePapare 1 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/130720?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch126.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=126&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  },
+  {
+    "id": "127",
+    "num": 127,
+    "name": "ThePapare 2 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/130722?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch127.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=127&expires=1758866881",
+    "color": "linear-gradient(135deg, #4d3284, #201c43)"
+  },
+  {
+    "id": "130",
+    "num": 128,
+    "name": "Star Sports 2 HD",
+    "category": "Sports",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880863?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch218.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=130&expires=1758866881",
+    "color": "linear-gradient(135deg, #176b62, #182b3d)"
+  },
+  {
+    "id": "131",
+    "num": 129,
+    "name": "Discovery Turbo",
+    "category": "Edutainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/47361?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch213.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=131&expires=1758866881",
+    "color": "linear-gradient(135deg, #0f4c5c, #06212b)"
+  },
+  {
+    "id": "133",
+    "num": 130,
+    "name": "Rock Action",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/880865?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch219.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=133&expires=1758866881",
+    "color": "linear-gradient(135deg, #5c2018, #2a0b06)"
+  },
+  {
+    "id": "134",
+    "num": 131,
+    "name": "Deutsche Welle English",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24072?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch151.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=134&expires=1758866881",
+    "color": "linear-gradient(135deg, #164e63, #102338)"
+  },
+  {
+    "id": "135",
+    "num": 132,
+    "name": "RAI Italia",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24069?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch148.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=135&expires=1758866881",
+    "color": "linear-gradient(135deg, #285b35, #10251b)"
+  },
+  {
+    "id": "136",
+    "num": 133,
+    "name": "TV5 Monde Asie",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24070?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch147.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=136&expires=1758866881",
+    "color": "linear-gradient(135deg, #54265e, #21152f)"
+  },
+  {
+    "id": "137",
+    "num": 134,
+    "name": "TRT World",
+    "category": "English Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24071?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch146.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=137&expires=1758866881",
+    "color": "linear-gradient(135deg, #75431f, #301c17)"
+  },
+  {
+    "id": "138",
+    "num": 135,
+    "name": "Colors Rishty",
+    "category": "Hindi Entertainment",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/695417?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch152.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=138&expires=1758866881",
+    "color": "linear-gradient(135deg, #145a70, #152643)"
+  },
+  {
+    "id": "139",
+    "num": 136,
+    "name": "Phoenix Info News",
+    "category": "News",
+    "logo": "https://api3.viu.lk/api/client/v1/global/images/24073?accessKey=WkVjNWNscFhORDBLCg==",
+    "rawStream": "https://api.viulk.xyz/api/m3u/Ch150.mpd",
+    "licenseKey": "https://api.viulk.xyz/api/api/license?id=139&expires=1758866881",
+    "color": "linear-gradient(135deg, #782d39, #30151d)"
+  }
+]
